@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EhsanCreator
+- 👋 Hi, I’m Ehsan Shahryari
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning python
 - 📫 you can reach me by my telegram id : @EhsanCreator
